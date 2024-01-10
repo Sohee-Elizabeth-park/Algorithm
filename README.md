@@ -1,3 +1,3 @@
 Algorithms
 
-src/java/*
+src/*
