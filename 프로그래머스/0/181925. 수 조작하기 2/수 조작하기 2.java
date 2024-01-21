@@ -9,7 +9,7 @@ class Solution {
                 //3-2. answer에 'w' 추가
                 answer += 'w';
             } else if(numLog[i] - numLog[i-1] == -1) {
-                //4. numLog[i] - numLog[i-1] == 1 == 's'
+                //4. numLog[i] - numLog[i-1] == -1 == 's'
                 answer += 's';
             } else if(numLog[i] - numLog[i-1] == 10) {
                 //5. numLog[i] - numLog[i-1] == 10 == 'd'
