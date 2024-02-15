@@ -45,5 +45,5 @@ public class MinQ3 {
         int min = min4(a, b, c, d);
         //2-8. min값 결과 출력
         System.out.println("min값은 " + min + "입니다.");
-    }
+    } 
 }
